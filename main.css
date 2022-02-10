@@ -173,10 +173,19 @@ body {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background: #eeaeca;
+  background: radial-gradient(circle, #eeaeca 0%, #94bbe9 100%);
 }
 
 .dog-api .api-img {
   width: 500px;
   height: 500px;
+  border: 1px solid black;
+  -webkit-box-shadow: 5px 5px black;
+          box-shadow: 5px 5px black;
 }
 /*# sourceMappingURL=main.css.map */

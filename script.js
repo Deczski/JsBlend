@@ -210,7 +210,7 @@ clearBtn.addEventListener("click", (e) => {
 
 //--------DogAPI------------------------
 const URL = "https://dog.ceo/api/breeds/image/random";
-const apiBtn = document.querySelector(".btn-danger");
+const apiBtn = document.querySelector(".btn-dog");
 const apiImg = document.querySelector(".api-img");
 
 apiBtn.addEventListener("click", () => {

@@ -1,4 +1,4 @@
-PL -> ENG Below
+PL / ENG Below
 
 Fetch'em all fetchuje dane z end pointów, a po rozwiązaniu requestów, przedstawia dane w tabeli:
 zwracane dane nie są nigdzie przedstawiane. Zamiast tego, wypisuje dane nt requestów.
